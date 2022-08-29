@@ -1,3 +1,10 @@
+## Japleen Kaur's First CS193 Homework
+
+- The class is super helpful for learning important CS tools not taught in general CS courses
+- The instructors are patient, friendly, and fun to learn with
+- The class is not too difficult to follow as long as we pay attention
+- There are several resources available when we need help
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
