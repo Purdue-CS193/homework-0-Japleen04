@@ -1,7 +1,7 @@
 ## Japleen Kaur's First CS193 Homework
 
 - The class is super helpful for learning important CS tools not taught in general CS courses
-- The instructors are patient, friendly, and fun to learn with
+- The instructors are patient, friendly, and fun to learn with :)
 - The class is not too difficult to follow as long as we pay attention
 - There are several resources available when we need help
 
